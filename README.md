@@ -110,7 +110,7 @@ A shock to any one of these - one city, one policy, one channel would hit revenu
 
 - **Customer count** (`COUNT(fact_premiums[customer_code])`) counts customer-code *records*, not distinct customers.
 - **Profit is estimated**, calculated as Final Premium minus an age-based *estimated* settlement.
-- **age-based estimated settlement** is calculated as Final Premium * Settlement %
+- **Age-based estimated settlement** is calculated as Final Premium * Settlement %
 - **Settlement % is age-based**; actual outcomes may vary due to factors outside the model.
 - **March seasonality and other patterns are descriptive, not causal**, root causes need validation against operational data.
 
