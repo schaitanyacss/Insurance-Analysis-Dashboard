@@ -134,7 +134,8 @@ The report contains four pages:
 
 4. **Age Group** - Customer distribution, revenue by age group, settlement exposure, profit & margin, policy and sales-mode interaction
 
-<img width="1728" height="973" alt="age_group" src="https://github.com/user-attachments/assets/8f01aa7c-9ce3-45f0-806c-1bd0699a9f12" />
+<img width="1728" height="970" alt="age_group" src="https://github.com/user-attachments/assets/4e13c9da-cbe0-4b82-8a7d-6bb5eccb24bb" />
+
 
 ---
 
